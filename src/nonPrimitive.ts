@@ -12,3 +12,4 @@ mixedArray.push("Milk", 1)
 
 let cordinate: [number, string] = [24, "Pritom"]
 
+    
